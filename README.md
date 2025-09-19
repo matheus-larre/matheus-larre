@@ -21,7 +21,6 @@ Estou sempre em busca de novos conhecimentos e desafios. No momento, estou imers
 
 <div>
   <a href="https://github.com/matheus-larre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-larre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-larre&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
