@@ -1,6 +1,6 @@
 ### Olá, sou o Matheus Larré! 👋
 
-Atualmente, sou **estudante de Análise e Desenvolvimento de Sistemas** no **CESAR School**. Minha jornada no mundo da tecnologia começou com foco no **desenvolvimento web**, onde tenho explorado e me aprofundado em HTML, CSS e JavaScript. 💻
+Atualmente, sou **estudante de Análise e Desenvolvimento de Sistemas** no **CESAR School**. Minha jornada no mundo da tecnologia começou com foco no **desenvolvimento web**, onde tenho explorado e me aprofundado em JavaScript, HTML e CSS. 💻
 
 Estou sempre em busca de novos conhecimentos e desafios. No momento, estou imerso no aprendizado de **Python**, ansioso para expandir minhas habilidades e contribuir com projetos incríveis!
 
