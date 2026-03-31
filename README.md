@@ -11,7 +11,7 @@ Sou um profissional com formação em **Ciências Contábeis (UFPE)** e atualmen
 
 Meu diferencial reside na capacidade de aplicar **Python, C# e IA** para automatizar processos financeiros, realizar auditorias sistêmicas e modelar fluxos de dados que geram insights reais para o negócio.
 
-* 🌱 Atualmente focado em: **Estrutura de Dados (C/C++), .NET e Arquitetura de APIs.**
+* 🌱 Atualmente focado em: ** C, C++, C#, .NET e Arquitetura de APIs.**
 * 🎯 Objetivo: Desenvolver soluções que otimizem a gestão empresarial e a governança de dados.
 
 ---
@@ -22,7 +22,7 @@ Meu diferencial reside na capacidade de aplicar **Python, C# e IA** para automat
   <a href="https://www.linkedin.com/in/matheusrlarre/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
   </a>
-  <a href="mailto:seu-email@exemplo.com" target="_blank">
+  <a href="mailto:matheus.rodrigues.larre@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
 </p>
@@ -84,8 +84,13 @@ Meu diferencial reside na capacidade de aplicar **Python, C# e IA** para automat
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-larre&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+---
+
+### 📊 Estatísticas de Código
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheus-larre&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Matheus's GitHub stats" height="170px" />
 </p>
 
+> **Nota:** Como estou em transição de carreira, muitos dos meus projetos recentes de automação financeira estão em repositórios privados por conterem dados sensíveis.
 
