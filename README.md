@@ -1,6 +1,6 @@
 # Olá, eu sou Matheus Larré 👋
 
-### Financial Analyst | Full-Stack Developer in training @CESAR School 
+### Financial Analyst | Backend & Data Enthusiast @CESAR School 
 **Unindo Inteligência Financeira e Tecnologia para transformar dados em decisões estratégicas.**
 
 ---
@@ -11,7 +11,7 @@ Sou um profissional com formação em **Ciências Contábeis (UFPE)** e atualmen
 
 Meu diferencial reside na capacidade de aplicar **Python, C# e IA** para automatizar processos financeiros, realizar auditorias sistêmicas e modelar fluxos de dados que geram insights reais para o negócio.
 
-* 🌱 Atualmente focado em: ** C, C++, C#, .NET e Arquitetura de APIs.**
+* 🌱 Atualmente focado em: **C, C++, C#, .NET e Arquitetura de APIs.**
 * 🎯 Objetivo: Desenvolver soluções que otimizem a gestão empresarial e a governança de dados.
 
 ---
@@ -78,10 +78,29 @@ Meu diferencial reside na capacidade de aplicar **Python, C# e IA** para automat
 
 ### 💻 Projetos em Destaque
 
-- **FluiSaúde:** Backend em Python/Flask utilizando arquitetura MVC, com integração de SQLAlchemy e autenticação segura com tokens JWT.
-- **Estruturas de Dados:** Implementações e desafios lógicos utilizando C e Haskell (Projetos acadêmicos CESAR School).
-- **Análise Financeira com IA:** Utilização de lógica de programação para otimização de fluxos de faturamento e auditoria de sistemas contábeis.
+#### 🥃 The Boolean Bar
+**Backend Engineer (C Expert) | Logic Master**
+Simulador de apostas clandestinas baseado em lógica proposicional, desenvolvido para as cadeiras de PIF e Lógica (CESAR School).
+- **Desafio Técnico:** Implementação de um motor de avaliação de fórmulas lógicas (Tautologia/Contradição) em **C11**.
+- **Destaque:** Arquitetura modular desacoplada com gestão rigorosa de memória (**malloc/free**) e uso de **Ponteiros de Função** para simular paradigmas funcionais.
+- **Contribuição:** Responsável pelo controle de fluxo imperativo, motor de turnos e integração dos módulos de lógica.
 
+#### 🎓 Educativ.ia
+**Backend & Security Engineer | Python & Flask**
+Plataforma SaaS de planejamento pedagógico ágil com IA, alinhada ao ODS 4 da ONU.
+- **Arquitetura Enterprise:** Desenvolvimento seguindo padrões de mercado como **Repository Pattern**, **App Factory** e camadas desacopladas.
+- **Contribuição Principal:** Implementação completa do módulo de **Autenticação e Segurança**, utilizando **JWT**, controle de sessões, criptografia de hashes e middlewares de proteção de rotas.
+- **Integração:** Modelagem do banco de dados (SQLAlchemy) e estruturação de schemas de validação para garantir a integridade dos dados financeiros/educacionais.
 
+#### 📈 Análise Financeira com IA & Automação
+**Data & Finance Strategist**
+Projetos focados na interseção entre Ciências Contábeis e Tecnologia.
+- **Automação Contábil:** Scripts em Python para processamento de XMLs de Notas Fiscais e Folha de Pagamento, reduzindo o tempo de conferência em mais de 70%.
+- **Fintech Insights:** Modelagem de dashboards financeiros integrando APIs de ERPs com Python para análise preditiva de fluxo de caixa.
 
+#### 🏥 FluiSaúde
+**Backend Developer**
+Sistema de gestão hospitalar com foco em eficiência operacional.
+- **Tecnologias:** Python, Flask, SQLAlchemy e JWT.
+- **Destaque:** Criação de uma API REST robusta com arquitetura MVC, garantindo escalabilidade e segurança no acesso aos dados sensíveis de pacientes.
 
