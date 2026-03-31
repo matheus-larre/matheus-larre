@@ -82,15 +82,6 @@ Meu diferencial reside na capacidade de aplicar **Python, C# e IA** para automat
 - **Estruturas de Dados:** Implementações e desafios lógicos utilizando C e Haskell (Projetos acadêmicos CESAR School).
 - **Análise Financeira com IA:** Utilização de lógica de programação para otimização de fluxos de faturamento e auditoria de sistemas contábeis.
 
----
 
----
 
-### 📊 Estatísticas de Código
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-larre&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
-> **Nota:** Como estou em transição de carreira, muitos dos meus projetos recentes de automação financeira estão em repositórios privados por conterem dados sensíveis.
 
