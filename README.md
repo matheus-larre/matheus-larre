@@ -88,8 +88,8 @@ Meu diferencial reside na capacidade de aplicar **Python, C# e IA** para automat
 
 ### 📊 Estatísticas de Código
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheus-larre&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Matheus's GitHub stats" height="170px" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-larre&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 > **Nota:** Como estou em transição de carreira, muitos dos meus projetos recentes de automação financeira estão em repositórios privados por conterem dados sensíveis.
