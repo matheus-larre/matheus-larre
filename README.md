@@ -7,7 +7,7 @@
 
 ### 💡 Sobre mim
 
-Sou formado em **Ciências Contábeis pela UFPE** e atualmente curso **Análise e Desenvolvimento de Sistemas na CESAR School**. Desde 2022, atuo no setor financeiro de uma clínica, com experiência em faturamento, controladoria, análise de dados, processos fiscais e automação de rotinas.
+Sou formado em **Ciências Contábeis pela UFPE** e atualmente curso **Análise e Desenvolvimento de Sistemas na CESAR School**. Desde 2022, atuo no setor financeiro, com experiência em faturamento, controladoria, análise de dados, processos fiscais e automação de rotinas.
 
 Hoje, estou em transição para a área de tecnologia, buscando unir minha vivência em negócios com desenvolvimento de software. Tenho interesse especial por **back-end, automação de processos, dados, APIs e sistemas de gestão**.
 
