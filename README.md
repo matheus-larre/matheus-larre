@@ -1,18 +1,20 @@
 # Olá, eu sou Matheus Larré 👋
 
-### Financial Analyst | Backend & Data Enthusiast @CESAR School 
-**Unindo Inteligência Financeira e Tecnologia para transformar dados em decisões estratégicas.**
+### Finance & Software Development | ADS @CESAR School | Python • .NET • Data Automation
+**Unindo experiência em finanças, contabilidade e tecnologia para automatizar processos, estruturar dados e apoiar decisões de negócio.**
 
 ---
 
 ### 💡 Sobre mim
 
-Sou um profissional com formação em **Ciências Contábeis (UFPE)** e atualmente graduando em **Análise e Desenvolvimento de Sistemas (CESAR School)**. Com mais de 3 anos de experiência no setor financeiro e controladoria, especializei-me em construir pontes entre a complexidade dos dados contábeis e a eficiência do desenvolvimento de software.
+Sou formado em **Ciências Contábeis pela UFPE** e atualmente curso **Análise e Desenvolvimento de Sistemas na CESAR School**. Desde 2022, atuo no setor financeiro de uma clínica, com experiência em faturamento, controladoria, análise de dados, processos fiscais e automação de rotinas.
 
-Meu diferencial reside na capacidade de aplicar **Python, C# e IA** para automatizar processos financeiros, realizar auditorias sistêmicas e modelar fluxos de dados que geram insights reais para o negócio.
+Hoje, estou em transição para a área de tecnologia, buscando unir minha vivência em negócios com desenvolvimento de software. Tenho interesse especial por **back-end, automação de processos, dados, APIs e sistemas de gestão**.
 
-* 🌱 Atualmente focado em: **C, C++, C#, .NET e Arquitetura de APIs.**
-* 🎯 Objetivo: Desenvolver soluções que otimizem a gestão empresarial e a governança de dados.
+Meu diferencial está em entender problemas reais de operação, finanças e processos — e transformá-los em soluções técnicas usando ferramentas como **Python, C#, .NET, SQL e automação com dados**.
+
+* 🌱 Atualmente focado em: **Python, C#, .NET, APIs REST, SQL e boas práticas de desenvolvimento.**
+* 🎯 Objetivo: atuar em projetos que conectem tecnologia, dados e eficiência operacional.
 
 ---
 
@@ -31,33 +33,32 @@ Meu diferencial reside na capacidade de aplicar **Python, C# e IA** para automat
 
 ### 🛠️ Linguagens e Ferramentas
 
-#### **Back-end & Finanças**
+#### **Back-end & Automação**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-#### **Front-end & Design**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### **Infraestrutura, Dados & Segurança**
+#### **Dados & Banco de Dados**
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-#### **Sistemas & Business Intelligence**
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+#### **Ferramentas & Boas Práticas**
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![dotenv](https://img.shields.io/badge/.env-ecd53f?style=for-the-badge&logo=dotenv&logoColor=black)
+
+#### **Business, Finanças & Sistemas**
 ![ERPs](https://img.shields.io/badge/ERPs_Knowledge-blueviolet?style=for-the-badge)
 ![Power Platform](https://img.shields.io/badge/Power_Platform-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Business Process](https://img.shields.io/badge/Business_Process-0A66C2?style=for-the-badge)
+
+#### **Base Acadêmica**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
@@ -78,29 +79,43 @@ Meu diferencial reside na capacidade de aplicar **Python, C# e IA** para automat
 
 ### 💻 Projetos em Destaque
 
-#### 🥃 The Boolean Bar
-**Backend Engineer (C Expert) | Logic Master**
-Simulador de apostas clandestinas baseado em lógica proposicional, desenvolvido para as cadeiras de PIF e Lógica (CESAR School).
-- **Desafio Técnico:** Implementação de um motor de avaliação de fórmulas lógicas (Tautologia/Contradição) em **C11**.
-- **Destaque:** Arquitetura modular desacoplada com gestão rigorosa de memória (**malloc/free**) e uso de **Ponteiros de Função** para simular paradigmas funcionais.
-- **Contribuição:** Responsável pelo controle de fluxo imperativo, motor de turnos e integração dos módulos de lógica.
+#### 📊 CND Tracker
+**Python • Pandas • Excel • Automação de E-mails**
 
-#### 🎓 Educativ.ia
-**Backend & Security Engineer | Python & Flask**
-Plataforma SaaS de planejamento pedagógico ágil com IA, alinhada ao ODS 4 da ONU.
-- **Arquitetura Enterprise:** Desenvolvimento seguindo padrões de mercado como **Repository Pattern**, **App Factory** e camadas desacopladas.
-- **Contribuição Principal:** Implementação completa do módulo de **Autenticação e Segurança**, utilizando **JWT**, controle de sessões, criptografia de hashes e middlewares de proteção de rotas.
-- **Integração:** Modelagem do banco de dados (SQLAlchemy) e estruturação de schemas de validação para garantir a integridade dos dados financeiros/educacionais.
+Gestor automatizado de vencimentos de Certidões Negativas de Débitos (CND), criado a partir de uma dor real do setor contábil/financeiro: o risco de perder prazos importantes e comprometer a regularidade fiscal de clientes.
 
-#### 📈 Análise Financeira com IA & Automação
-**Data & Finance Strategist**
-Projetos focados na interseção entre Ciências Contábeis e Tecnologia.
-- **Automação Contábil:** Scripts em Python para processamento de XMLs de Notas Fiscais e Folha de Pagamento, reduzindo o tempo de conferência em mais de 70%.
-- **Fintech Insights:** Modelagem de dashboards financeiros integrando APIs de ERPs com Python para análise preditiva de fluxo de caixa.
+- **Problema resolvido:** substitui o controle manual em planilhas por uma rotina automatizada de monitoramento.
+- **Funcionalidades:** leitura de base em Excel, cálculo de dias restantes, classificação em `URGENTE`, `ALERTA` ou `OK` e envio de alertas automáticos por e-mail.
+- **Boas práticas:** arquitetura modular com separação entre serviços de dados, regras de negócio, envio de e-mails e configurações.
+- **Segurança:** uso de `.env` e `python-dotenv` para gerenciamento de credenciais.
+- **Roadmap:** migração para banco relacional e futura criação de dashboard/interface de acompanhamento.
+
+**Stack:** Python 3.13, pandas, openpyxl, smtplib, python-dotenv.
+
+---
+
+#### 🛒 ProductClientHub API
+**C# • .NET • ASP.NET Core • Entity Framework Core • SQLite**
+
+API RESTful para gerenciamento de clientes e produtos, desenvolvida em C# com .NET e Entity Framework Core. O projeto trabalha relacionamento entre entidades, onde cada cliente pode possuir múltiplos produtos.
+
+- **Objetivo:** praticar desenvolvimento backend com API REST, persistência de dados e organização em camadas.
+- **Funcionalidades:** CRUD completo de clientes e produtos.
+- **Arquitetura:** separação entre API, contratos de comunicação/DTOs e exceções customizadas.
+- **Banco de dados:** SQLite com Entity Framework Core.
+- **Documentação:** endpoints testáveis via Swagger UI.
+- **Evoluções previstas:** autenticação JWT, migrations, validações com FluentValidation, paginação e testes unitários.
+
+**Stack:** C# 12, .NET 8, ASP.NET Core, Entity Framework Core, SQLite, Swagger.
+
+---
 
 #### 🏥 FluiSaúde
-**Backend Developer**
-Sistema de gestão hospitalar com foco em eficiência operacional.
+**Python • Flask • SQLAlchemy • JWT**
+
+Sistema de gestão hospitalar com foco em eficiência operacional e organização de dados sensíveis na área da saúde.
+
 - **Tecnologias:** Python, Flask, SQLAlchemy e JWT.
-- **Destaque:** Criação de uma API REST robusta com arquitetura MVC, garantindo escalabilidade e segurança no acesso aos dados sensíveis de pacientes.
+- **Destaque:** desenvolvimento de API REST com arquitetura MVC, autenticação e controle de acesso.
+- **Contexto:** projeto alinhado ao meu interesse em aplicar tecnologia para resolver problemas reais de gestão, saúde e processos internos.
 
